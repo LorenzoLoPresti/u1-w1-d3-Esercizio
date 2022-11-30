@@ -27,7 +27,8 @@
   color: #107777;
 }
 
-.article-container {
+.article-container,
+.footer {
   margin-left: 20vw;
   margin-right: 20vw;
 }
