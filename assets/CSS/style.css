@@ -67,3 +67,14 @@ video {
 .simple-recipes-link {
   color: #107777;
 }
+
+.ingredients-title {
+  border-bottom: 1px solid lightblue;
+  color: #333333;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.first-list {
+  line-height: 2;
+}
