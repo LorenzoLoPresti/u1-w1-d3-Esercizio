@@ -41,4 +41,29 @@
 
 video {
   max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+.video-caption-container {
+  text-align: center;
+  color: grey;
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+.related-articles-container {
+  padding-left: 0.7rem;
+  border-left: 2px solid #ffde8d;
+  margin-bottom: 3rem;
+}
+
+#featured {
+  text-transform: uppercase;
+  color: #b5460f;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.simple-recipes-link {
+  color: #107777;
 }
