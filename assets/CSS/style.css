@@ -29,8 +29,8 @@
 
 .article-container,
 .footer {
-  margin-left: 20vw;
-  margin-right: 20vw;
+  margin: auto;
+  max-width: 60%;
 }
 
 .title {
