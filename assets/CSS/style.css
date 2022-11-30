@@ -1,0 +1,27 @@
+.header {
+  text-align: center;
+}
+
+.logo {
+  width: 10rem;
+  margin-bottom: 1rem;
+}
+
+.menu-container {
+  color: #107777;
+  background-color: #fdfbf1;
+  padding: 1vh;
+  border-top: 1px solid #ffde8d;
+  margin-bottom: 4em;
+  font-size: 0.7rem;
+}
+
+.thanksgiving {
+  text-transform: uppercase;
+}
+
+.thanksgiving-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #107777;
+}
